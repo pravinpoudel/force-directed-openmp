@@ -1,0 +1,9 @@
+﻿  force-directed-graph-openmp.cpp
+D:\HPC learning\force-directed-graph-openmp\force-directed-graph-openmp\force-directed-graph-openmp.cpp(12,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\HPC learning\force-directed-graph-openmp\force-directed-graph-openmp\force-directed-graph-openmp.cpp(13,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\HPC learning\force-directed-graph-openmp\force-directed-graph-openmp\force-directed-graph-openmp.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+D:\HPC learning\force-directed-graph-openmp\force-directed-graph-openmp\force-directed-graph-openmp.cpp(71,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\HPC learning\force-directed-graph-openmp\force-directed-graph-openmp\force-directed-graph-openmp.cpp(83,24): warning C4018: '<': signed/unsigned mismatch
+D:\HPC learning\force-directed-graph-openmp\force-directed-graph-openmp\force-directed-graph-openmp.cpp(85,72): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\HPC learning\force-directed-graph-openmp\force-directed-graph-openmp\force-directed-graph-openmp.cpp(90,11): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+  force-directed-graph-openmp.vcxproj -> D:\HPC learning\force-directed-graph-openmp\Debug\force-directed-graph-openmp.exe
